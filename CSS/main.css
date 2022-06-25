@@ -50,8 +50,8 @@ header .navWrap {
 }
 
 a.symbol img {
-	width: 133px;
-	height: 26px;
+	width: 200px;
+	height: 50px;
 }
 
 .navWrap ul {
@@ -75,7 +75,7 @@ a.symbol img {
 
 .navWrap .outLink p {
 	display: inline-block;
-	padding: 0 10px;
+	padding: 0 40px;
 	border: 1px solid #808080;
 	border-radius: 8px;
 	color: #808080;
@@ -171,7 +171,8 @@ section.main1 .main .title {
 
 .main .img_sport img {
 	margin-top: 50px;
-	width: 300px;
+	margin-left: 100px;	
+	width: 320px;
 	height: 300px;
 }
 
